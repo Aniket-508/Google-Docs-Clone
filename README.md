@@ -38,3 +38,4 @@ $ npm update -g
 ```
 $ npm run dev
 ```
+5. Don't forget to update the environment variables with yours in '.env.local' file 
