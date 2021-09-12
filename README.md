@@ -7,7 +7,6 @@
 - [ReactJS](https://reactjs.org/docs/getting-started.html)
 - [Tailwind CSS](https://tailwindcss.com/docs)
 - [Material UI](https://material-ui.com/getting-started/installation/)
-- [Mapbox](https://docs.mapbox.com/help/getting-started/)
 - [Firebase](https://firebase.google.com/docs)
 
 ## Screenshots :
