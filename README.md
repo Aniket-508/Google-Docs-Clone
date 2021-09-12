@@ -1,4 +1,3 @@
-
 # Google Docs Clone
 
 ## Tech Stack :
@@ -12,15 +11,15 @@
 - [Firebase](https://firebase.google.com/docs)
 
 ## Screenshots :
-- Login Page
+- ### Login Page
 ![](https://github.com/Aniket-508/Google-Docs-Clone/blob/main/Screenshots/gdocs1.JPG)
-- NextAuth Authentication Page
+- ### NextAuth Authentication Page
 ![](https://github.com/Aniket-508/Google-Docs-Clone/blob/main/Screenshots/gdocs2.JPG)
-- Google Authentication Page
+- ### Google Authentication Page
 ![](https://github.com/Aniket-508/Google-Docs-Clone/blob/main/Screenshots/gdocs3.JPG)
-- Home Page
+- ### Home Page
 ![](https://github.com/Aniket-508/Google-Docs-Clone/blob/main/Screenshots/gdocs4.JPG)
-- Text Editor Page
+- ### Text Editor Page
 ![](https://github.com/Aniket-508/Google-Docs-Clone/blob/main/Screenshots/gdocs5.JPG)
 
 ## Steps for Installation :
