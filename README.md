@@ -24,6 +24,7 @@ I have tried to develop my own version of the famous Google Docs website. Please
 - [Tailwind CSS](https://tailwindcss.com/docs)
 - [Material UI](https://material-ui.com/getting-started/installation/)
 - [Firebase](https://firebase.google.com/docs)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Screenshots :
 - ### Login Page
@@ -36,6 +37,7 @@ I have tried to develop my own version of the famous Google Docs website. Please
 ![](https://github.com/Aniket-508/Google-Docs-Clone/blob/main/Screenshots/gdocs4.JPG)
 - ### Text Editor Page
 ![](https://github.com/Aniket-508/Google-Docs-Clone/blob/main/Screenshots/gdocs5.JPG)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Prerequisites :
 * Node Package Manager or npm
@@ -62,6 +64,7 @@ $ npm update -g
 $ npm run dev
 ```
 5. Don't forget to update the environment variables with yours in '.env.local' file 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contributing :
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
